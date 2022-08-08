@@ -1,0 +1,12 @@
+@media (max-width: 760px) {
+    .wrapper{
+        margin-left: 24px;
+        margin-top: 60px;
+        width: 327px;
+        height: 544px;
+    }
+
+    .review{
+        height: 100%;
+    }
+}
