@@ -1,3 +1,6 @@
+## My project live link
+https://chungophuongthuy.github.io/NFT-preview-card-component/
+
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
@@ -91,5 +94,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
-## My project live link
-https://chungophuongthuy.github.io/NFT-preview-card-component/
+
